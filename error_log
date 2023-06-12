@@ -1,0 +1,11 @@
+[02-May-2023 05:32:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shivalik/public_html/websites4demo.com/aruba-site/includes/header.php on line 212
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 1
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 1
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 1
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 2
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 2
+[01-Jun-2023 06:12:00 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 2
+[01-Jun-2023 06:12:37 UTC] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 1
+[01-Jun-2023 06:12:37 UTC] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 1
+[01-Jun-2023 06:12:37 UTC] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 2
+[01-Jun-2023 06:12:37 UTC] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/shivalik/public_html/websites4demo.com/aruba-site/testfoot.php on line 2
